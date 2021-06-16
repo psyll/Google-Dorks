@@ -48,7 +48,7 @@ If you start a query with `[allinurl:]`, Google will restrict the results to tho
 If you include `[inurl:]` in your query, Google will restrict the results to documents containing that word in the url. For instance, `[inurl:google search]` will return documents that mention the word “google” in their url, and mention the word “search” anywhere in the document (url or no). Note there can be no space between	the “inurl:” and the following word. Putting “inurl:” in front of every word in your query is equivalent to putting “allinurl:” at the front of your query: `[inurl:google inurl:search]` is the same as `[allinurl: google search]`.
 
 
-## Dorks List
+## Popular Dorks List
 
 |   |
 |---|
@@ -206,10 +206,11 @@ intitle:"index.of *" admin news.asp configview.asp
 intitle:("TrackerCam Live Video")|("TrackerCam Application Login")|("Trackercam Remote") -trackercam.com
 intitle:(“TrackerCam Live Video”)|(“TrackerCam Application Login”)|(“Trackercam Remote”) -trackercam.com
 inurl:admin inurl:userlist Generic userlist files
+|---|
 
-------------------------------------------------------------------------------------------
-Using special search string to find vulnerable websites:
-
+## Using special search string to find vulnerable websites
+|   |
+|---|
 inurl:php?=id1
 inurl:index.php?id=
 inurl:trainers.php?id=
