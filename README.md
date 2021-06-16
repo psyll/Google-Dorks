@@ -25,7 +25,6 @@ The query `[define:]` will provide a definition of the words you enter after it,
 
 If you begin a query with the `[stocks:]` operator, Google will treat the rest of the query terms as stock ticker symbols, and will link to a page showing stock information for those symbols. For instance, [stocks: intc yhoo] will show information about Intel and Yahoo. (Note you must type the ticker symbols, not the company name.)
 
-
 ### site
 
 If you include `[site:]` in your query, Google will restrict the results to those	websites in the given domain. For instance, [help site:www.google.com] will find pages about help within www.google.com. [help site:com] will find pages about help within
@@ -38,7 +37,6 @@ If you start a query with `[allintitle:]`, Google will restrict the results to t
 
 If you include `[intitle:]` in your query, Google will restrict the results to documents containing that word in the title. For instance, [intitle:google search]	will return documents that mention the word “google” in their title, and mention the 	word “search” anywhere in the document (title or no). Note there can be no space between the “intitle:” and the following word. Putting `[intitle:]` in front of every word in your query is equivalent to putting `[allintitle:]` at the front of your	query: [intitle:google intitle:search] is the same as [allintitle: google search].
 
-
 ### allinurl
 
 If you start a query with `[allinurl:]`, Google will restrict the results to those with all of the query words in the url. For instance, [allinurl: google search] will return only documents that have both “google” and “search” in the url. Note that `[allinurl:]` works on words, not url components. In particular, it ignores punctuation. Thus, [allinurl: foo/bar] will restrict the results to page with the words “foo” and “bar” in the url, but won’t require that they be separated by a slash within that url, that they be adjacent, or that they be in that particular word order. There is currently no way to enforce these constraints.
@@ -46,6 +44,8 @@ If you start a query with `[allinurl:]`, Google will restrict the results to tho
 ### inurl
 
 If you include `[inurl:]` in your query, Google will restrict the results to documents containing that word in the url. For instance, `[inurl:google search]` will return documents that mention the word “google” in their url, and mention the word “search” anywhere in the document (url or no). Note there can be no space between	the “inurl:” and the following word. Putting “inurl:” in front of every word in your query is equivalent to putting “allinurl:” at the front of your query: `[inurl:google inurl:search]` is the same as `[allinurl: google search]`.
+
+## List
 
 | Popular Dorks List |
 |---|
