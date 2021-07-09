@@ -4,7 +4,7 @@
 
 ### cache
 
-If you include other words in the query, Google will highlight those words within the cached document. For instance, [cache:www.google.com web] will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query `[cache:]` will show the version of the web page that Google has in its cache. For instance, `[cache:www.google.com]` will show Google’s cache of the Google homepage. Note there can be no space between the “cache:” and the web page url.
+If you include other words in the query, Google will highlight those words within the cached document. For instance, `[cache:www.google.com web]` will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query `[cache:]` will show the version of the web page that Google has in its cache. For instance, `[cache:www.google.com]` will show Google’s cache of the Google homepage. Note there can be no space between the “cache:” and the web page url.
 
 ### link
 
