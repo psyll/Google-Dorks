@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+show_downloads: true
+title: Noty JS
+title-separator: /
+description: Lightweight notifications and confirmation solution

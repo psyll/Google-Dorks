@@ -1,5 +1,20 @@
 # Google Dorks
 
+![Google Dorks](assets/img/header.png "Google Dorks")
+
+
+
+<p align="center">
+	<a href="https://github.com/psyll/Google-Dorks/blob/master/LICENSE">
+		<img src="https://badgen.net/badge/license/mit" alt="Display">
+	</a>
+	<img src="https://img.shields.io/github/repo-size/psyll/Google-Dorks" alt="Repo Size">
+	<img src="https://img.shields.io/github/languages/code-size/psyll/Google-Dorks" alt="Code Size">
+	<img src="https://img.shields.io/github/last-commit/psyll/Google-Dorks" alt="Last commit">
+	<img src="https://img.shields.io/github/issues-raw/psyll/Google-Dorks" alt="Open issues">
+
+</p>
+
 ## Explanations
 
 ### cache
