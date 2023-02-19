@@ -2,8 +2,6 @@
 
 ![Google Dorks](assets/img/header.png "Google Dorks")
 
-
-
 <p align="center">
 	<a href="https://github.com/psyll/Google-Dorks/blob/master/LICENSE">
 		<img src="https://badgen.net/badge/license/mit" alt="Display">
